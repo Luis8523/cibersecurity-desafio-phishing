@@ -153,14 +153,4 @@ Veja os dados capturados:
 cat /var/www/html/logins.txt
 
 
-![Captura de tela 2025-06-11 113635](https://github.com/user-attachments/assets/a3f911fc-31db-488b-b9f2-f083063adddd)
-
-
-![Captura de tela 2025-06-11 113656](https://github.com/user-attachments/assets/1636f091-95ee-4857-82ce-a66a1b581003)
-
-
-
-
-![Captura de tela 2025-06-11 103152](https://github.com/user-attachments/assets/6093dc1f-d229-418d-9fe0-b52cc0afdc10)
-
-
+Captura de tela 2025-06-11 113656.png
