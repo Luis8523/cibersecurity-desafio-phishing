@@ -153,4 +153,4 @@ Veja os dados capturados:
 cat /var/www/html/logins.txt
 
  
-![Descrição da imagem](Captura de tela 2025-06-11 103152.png)
+![Captura de tela]
