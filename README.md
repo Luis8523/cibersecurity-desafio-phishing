@@ -152,5 +152,6 @@ Veja os dados capturados:
 
 cat /var/www/html/logins.txt
 
-
-Capela 2025-06-1tura de t1 113635.png
+ 
+![Capela 2025-06-1tura de t1 113635.png](https://github.com/user-attachments/assets/5e1a7afe-ff99-41b7-94c6-5abbae6526c0).
+ss
