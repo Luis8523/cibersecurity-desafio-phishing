@@ -152,4 +152,4 @@ Veja os dados capturados:
 
 cat /var/www/html/logins.txt
 
-![Captura de tela 2025-0611 113811](https://github.com/Luis8523/cibersecurity-desafio-phishing/blob/main/Captura%20de%20tela%202025-06-11%20103152.png)
+![Captura de tela](https://raw.githubusercontent.com/Luis8523/cibersecurity-desafio-phishing/main/Captura_de_tela_2025-06-11_103152.png)
