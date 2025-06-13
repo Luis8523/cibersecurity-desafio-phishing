@@ -155,4 +155,8 @@ cat /var/www/html/logins.txt
 ## Exemplo de Captura
 
 
-![Captura de tela 2025-06-11 113811.png](https://raw.githubusercontent.com/Luis8523/cibersecurity-desafio-phishing/main/Captura_de_tela_2025-06-11_103152.png)
+
+![image](https://github.com/user-attachments/assets/1eb7021b-1d90-45fa-8af4-60584e1a3aa7)
+
+
+
