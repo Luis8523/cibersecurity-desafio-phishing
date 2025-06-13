@@ -26,6 +26,7 @@ Obtendo o endereço da máquina: ifconfig
 URL para clone: http://www.facebook.com
 
 
+
 ![Captura de tela 2025-06-11 091900](https://github.com/user-attachments/assets/5e1a7afe-ff99-41b7-94c6-5abbae6526c0)
 ss
 
@@ -71,7 +72,7 @@ Simular uma página de login com aparência semelhante ao Facebook, capturar os 
 
 ### 1. Instalação e execução do Apache
 
-```bash
+
 sudo apt update
 
 sudo apt install apache2
@@ -154,7 +155,7 @@ cat /var/www/html/logins.txt
 
 ## Exemplo de Captura
 
-![Captura de tela 2025-06-11 103152](https://github.com/user-attachments/assets/af6c3f3f-0fdc-4de1-ae70-ba72ea00cdda)
+![Image](https://github.com/user-attachments/assets/0e42d494-94c1-46f6-a9be-f60cf48fe8a5)
 
 
-
+![Image](https://github.com/user-attachments/assets/e559111f-3d7e-4630-a9fb-f241a1f84f7c)
