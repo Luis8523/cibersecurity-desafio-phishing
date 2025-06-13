@@ -155,4 +155,5 @@ cat /var/www/html/logins.txt
 ## Exemplo de Captura
 
 
-![captura de tela 2025-06-11 091900](https://github.com/user-attachments/assets/31bd3658-6973-4460-95b7-c7419ad9348f)
+![captura de tela 2025-06-11 091900](https://github.com/user-attachments/assets/31bd3658-6973-4460-95b7-c7419ad9348f).
+ss
