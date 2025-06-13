@@ -155,8 +155,6 @@ cat /var/www/html/logins.txt
 ## Exemplo de Captura
 
 
-
 ![Captura de tela](https://raw.githubusercontent.com/Luis8523/cibersecurity-desafio-phishing/main/Captura_de_tela_2025-06-11_113635.png)
-
 
 
