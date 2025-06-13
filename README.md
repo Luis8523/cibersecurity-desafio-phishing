@@ -154,5 +154,5 @@ cat /var/www/html/logins.txt
 
 ## Exemplo de Captura
 
-![Captura da tela 11/06/2025 - 11:38](Captura%20de%20tela%202025-06-11%20113811.png)
+![Captura da tela 11/06/2025 – 11:38](Captura%20de%20tela%202025-06-11%20113811.png)
 
